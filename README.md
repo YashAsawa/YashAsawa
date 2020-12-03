@@ -1,8 +1,8 @@
 ### Hello there! 👋 My name is Yash Asawa. Welcome to my Github Profile! 
 
 ### 🔭 About Me:
-I'm an entry-level data scientist who takes pride in building models that translate data points into business insights. I also work as a front-end Web Developer, Android/Flutter Developer and am currently a final year student in the School of Computer Science and Engineering at Vellore Institute of Technology (VIT). I am pursuing a Bachelors in Technology Degree in Computer Science and will complete my graduation in 2021. Apart from these I am also working on realizing some startup ideas with a brilliant set of like-minded individuals. When I'm not developing and building things, you can find me on Youtube learning, writing an article, binge watching an action-packed drama or a cringe-packed comedy that lifts me up depending on my mood. 
-Finance and Portfolio Selection is my favourite domain these days and I've been implementing a varierty of ML models to optimize portfolios.  
+I'm an entry-level data scientist who takes pride in building models that translate data points into business insights. I also work as a front-end Web Developer, Android/Flutter Developer and am currently a final year student in the School of Computer Science and Engineering at Vellore Institute of Technology (VIT). I am pursuing a Bachelors in Technology Degree in Computer Science and will complete my graduation in 2021. Apart from these, I am also working on realizing some startup ideas with a brilliant set of like-minded individuals. When I'm not developing and building things, you can find me on Youtube learning, writing an article, binge-watching an action-packed drama or a cringe-packed comedy that lifts me up depending on my mood. 
+Finance and Portfolio Selection are my favourite domains these days and I've been implementing a variety of ML models to optimize portfolios.
 
 Here's my <a href = "https://drive.google.com/file/d/1Vb18b6jo_8rrkXfQt7YNBH1t5zXWyyGQ/view?usp=sharing">Resume</a> 
 
